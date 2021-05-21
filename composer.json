@@ -1,0 +1,15 @@
+{
+  "name": "langdonglei/countdown",
+  "description": "",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "langdonglei\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "test\\": "test"
+    }
+  }
+}
